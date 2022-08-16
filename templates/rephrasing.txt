@@ -1,0 +1,34 @@
+The following program rephrases paragraphs of scientific text into standard operating procedures.
+--
+Commercial multiwalled CNTs (20 to 50 nm in diameter, Shenzhen Nanotech Port Co., Ltd., Shenzhen, China) were purified by refluxing the as-received sample in 10 wt.% nitric acid for 12 h. The acid-treated CNTs were then collected by filtration and dried at 120°C for 12 h in vacuum. A typical synthesis process of the MnO2/CNT nanocomposite is described as follows. Firstly, 0.1 g CNTs was dispersed in 25 ml deionized [DI] water by ultrasonic vibration for 2 h. Then, 0.3 g KMnO4 was added into the above suspension, and the mixed solution was stirred by a magnetic bar for 2 h. 
+
+Rephrasing:
+1. Purify commercial multiwalled CNTs (20 to 50 nm in diameter, Shenzhen Nanotech Port Co., Ltd., Shenzhen, China) by refluxing the as-received sample in 10 wt.% nitric acid for 12 h.
+2. Collect the acid-treated CNTs by filtration and dry at 120°C for 12 h in vacuum.
+3. Disperse 0.1 g CNTs in 25 ml deionized [DI] water by ultrasonic vibration for 2 h. 
+4. Add 0.3 g KMnO4 into the above suspension, and stir the mixed solution by a magnetic bar for 2 h. 
+--
+XRD patterns for each powder sample of Pb1−4.75xNd0.5xNi4xZrO3 composition was observed through an X-ray diffractometer (Bruker D-8 Advance). The radiation source (CuKα) was used at 1.4 kW to produce the X-rays. The wavelength of X-rays used was 1.5406 Å. The data was recorded between two theta ranges 20° and 80°.
+
+Rephrasing:
+1. Observe XRD patterns for each powder sample of Pb1−4.75xNd0.5xNi4xZrO3 composition through an X-ray diffractometer (Bruker D-8 Advance).
+2. Use the radiation source (CuKα) at 1.4 kW to produce the X-rays.
+3. Use a wavelength of X-rays of 1.5406 Å. 
+4. Record the data between two theta ranges 20° and 80°.
+--
+The 1:50 mol ratio of tetrabutyltitanate and ethanol was mixed and the mixed solution was added with a stoichiometric amount of lithium acetate. Then, the resultant solution was heated at 120 °C in a hot air oven for 3 h to evaporate the remaining solvents. Finally, the dried powder was calcined at 850 °C in a muffle furnace for 10 h to form the spinel LTO.
+
+Rephrasing:
+1. Mix the 1:50 mol ratio of tetrabutyltitanate and ethanol.
+2. Add a stoichiometric amount of lithium acetate to the mixed solution.
+3. Heat the resultant solution at 120 °C in a hot air oven for 3 h to evaporate the remaining solvents.
+4. Calcine the dried powder at 850 °C in a muffle furnace for 10 h to form the spinel LTO.
+--
+The 80 wt% active material (LTO & GSLTO), 10 wt% PVdF (binder) and 10 wt% carbon block were mixed using NMP solvent. Then, the slurry was coated on a copper foil using a doctor blade method and heated at 120 °C for 3 h to remove the excess solvent.
+
+Rephrasing:
+1. Mix the 80 wt% active material (LTO & GSLTO), 10 wt% PVdF (binder) and 10 wt% carbon block.
+2. Use NMP solvent to mix the slurry.
+3. Use a doctor blade method to coat the slurry on a copper foil.
+4. Heat the coated copper foil at 120 °C for 3 h to remove the excess solvent.
+--

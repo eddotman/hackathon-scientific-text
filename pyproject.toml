@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hackathon-scientific-text"
+version = "0.1.0"
+description = "Does cool stuff with Cohere API and scientific text (hopefully???)"
+authors = ["Cohere <everybody@cohere.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+cohere = "^2.0.0"
+streamlit = "^1.12.0"
+PubChemPy = "^1.0.4"
+
+[tool.poetry.dev-dependencies]
+black = "^22.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
